@@ -1,3 +1,5 @@
+#Fully fonctionnal V1
+
 import pygame
 import random
 import time

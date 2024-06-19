@@ -1,3 +1,5 @@
+#Fully fonctionnal V1
+
 import pygame
 from files import img_list
 from settings import *

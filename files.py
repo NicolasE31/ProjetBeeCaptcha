@@ -1,3 +1,5 @@
+#Fully fonctionnal V1
+
 import pygame
 from os import path
 from settings import *

@@ -1,3 +1,5 @@
+#Fully fonctionnal V1
+
 from os import path
 
 WIDTH=1720
