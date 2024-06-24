@@ -25,4 +25,8 @@ while True:
     except:
         break
 
-print(img_list)
+captcha = pygame.image.load(path.join(IMG_DIR, "captcha.png"))
+captcha = pygame.transform.scale(captcha, (WIDTH/3, (HEIGHT-200)/5))
+
+clickable = pygame.image.load(path.join(IMG_DIR, "clickable.png"))
+clicked = pygame.image.load(path.join(IMG_DIR, "clicked.png"))
